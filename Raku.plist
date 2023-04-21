@@ -90,9 +90,9 @@
 		<string>:x</string>
 	</array>
 	<key>BBLMLanguageCode</key>
-	<string>PRL6</string>
+	<string>RAKU</string>
 	<key>BBLMLanguageDisplayName</key>
-	<string>Perl 6</string>
+	<string>Raku</string>
 	<key>BBLMScansFunctions</key>
 	<true/>
 	<key>BBLMSuffixMap</key>
@@ -109,9 +109,17 @@
 			<key>BBLMLanguageSuffix</key>
 			<string>.pl6</string>
 		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.raku</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.rakumod</string>
+		</dict>
 	</array>
 	<key>BBLMPreferredFilenameExtension</key>
-	<string>p6</string>
+	<string>raku</string>
 	<key>Language Features</key>
 	<dict>
 		<key>Open Line Comments</key>       <string>#</string>
